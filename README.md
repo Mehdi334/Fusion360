@@ -1,15 +1,15 @@
-<h1> Jet 7 - Iron Man Suit</h1>
+<h1> Comprehensive Fusion 360 Computer Aided Design Course</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Link To Course](https://www.udemy.com/course/fusion-360-beginners-course/)
 
 <h2>Description</h2>
-I am a design engineer for the student led initative Jet 7 and a member of the gas turbine team. My contributions include designing the CFD workflow which included splitting the gas turbine in to it's main components (Centrifugal compressor, combustion chamber, axial turbine) so that I could run a coupled simulation utisling the outlet boundary conditions of the first component in the next one for realistic results. This also allowed us to run simulations across different software (ANSYS Fluent and CFX). 
+I completed an online course on Computer Aided Design to gain proficiency with Fusion 360. The course took me from making basic 2D sketches and simple 3D modelling to working with assemblies and making motion studeis. 
 <br />
 
 
 <h2> Software Used</h2>
 
-- <b>ANSYS Fluent</b> 
+- <b>Fusion 360</b> 
 - <b>ANSYS CFX</b>
 
 
