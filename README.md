@@ -10,38 +10,23 @@ I completed an online course on Computer Aided Design to gain proficiency with F
 <h2> Software Used</h2>
 
 - <b>Fusion 360</b> 
-- <b>ANSYS CFX</b>
 
 
 <h2>Pictures:</h2>
 
 <p align="center">
-Logo: <br/>
-<img src="https://i.imgur.com/o03mf9M.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KeyfnZ5.jpeg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xPsfqTk.jpeg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tZyKZ3s.jpeg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9nbKkW1.jpeg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
